@@ -1,8 +1,3 @@
-import:
-  - ../skeleton.yaml
-  - ../road_shields.day.yaml
-  - ../poi.day.yaml
-
 global:
   # Disable POIs rendering by default
   poi:
